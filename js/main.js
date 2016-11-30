@@ -2,13 +2,19 @@ var notas_id = ["nota_1","nota_2","nota_3","nota_4"];
 var nota_actual = "nota_1";
 
 var scroll_move_nota = 1000;
-
+var scroll_play = true;
 // Key Configuration
 
 var nota_move_prev = 37;
 var nota_move_next = 39;
+
+var nota_move_prev_targus = 175;
+var nota_move_next_targus = 174;
+
 var nota_move_first = 38;
 var nota_move_last = 40;
+
+var pause_scroll = 13;
 // var nota_move_prev = 38;
 // var nota_move_next = 40;
 // var nota_move_first = 37;
@@ -25,6 +31,7 @@ var delta = 0;
 $(document).ready(function(){
 	// enterFullscreen();
 	console.log("Prompter");
+    $("#foo").hide();
 });
 
 $(document).on("mousemove", function(e) {
@@ -85,18 +92,26 @@ function f() {
     requestAnimationFrame(f);
 }
 
+
+
+////////////////  DRAW //////////////////
 var fps = 30;
 (function draw() {
 	setTimeout(function() {
 		requestAnimationFrame(draw);
 		// Drawing code goes here
 		if(delta) {
-			$("#cursor").css({top:$mouseY +'px'});
+            if(scroll_play){
+                $("#cursor").css({top:$mouseY +'px'});
 
-			$elems.scrollTop(function(i, v) {
-				$("#foo").text(v+delta+"  --  "+delta);
-				return v + delta;
-			});
+                $elems.scrollTop(function(i, v) {
+                    $("#foo").text(v+delta+"  --  "+delta);
+                    return v + delta;
+                });
+            }else{
+
+            }
+			
 
 		}
 
@@ -125,7 +140,7 @@ var fps = 30;
 
 $("body").keydown(function( event ){
        
-        if(event.which == nota_move_first)
+        if(event.which == nota_move_first) 
         {
             // direction = "Arriba";
 
@@ -134,7 +149,7 @@ $("body").keydown(function( event ){
                 }, scroll_move_nota);
 
             
-        }else if(event.which == nota_move_last)
+        }else if(event.which == nota_move_last) 
         {
             // direction = "Abajo";
 
@@ -142,7 +157,7 @@ $("body").keydown(function( event ){
                     scrollTop: $("#"+notas_id[notas_id.length - 1]).offset().top
                 }, scroll_move_nota);
             
-        }else if(event.which == nota_move_prev)
+        }else if((event.which == nota_move_prev) || (event.which == nota_move_prev_targus))
         {
             // direction = "Izquierda";
             // console.log("Nota Anterior");
@@ -156,7 +171,7 @@ $("body").keydown(function( event ){
             }
             
             
-        }else if(event.which == nota_move_next)
+        }else if((event.which == nota_move_next) || (event.which == nota_move_next_targus))
         {
             // direction = "Derecha";
             console.log("Nota Siguiente");
@@ -168,7 +183,101 @@ $("body").keydown(function( event ){
                     scrollTop: $("#"+notas_id[actual_id+1]).offset().top
                 }, scroll_move_nota);
             }
+        }else if(event.which == pause_scroll)
+        {
+            if(scroll_play){
+                scroll_play = false;
+            }else{
+                scroll_play = true;
+            }
         }
         
        
     });
+
+$("body").click(function(){
+    if(scroll_play)
+    {
+        scroll_play = false;
+    }else{
+        scroll_play = true;
+    }
+});
+
+
+////////////// Mouse Full Control Targus /////////////////
+
+
+    function returnFalse(e) {        
+        return false;
+    }
+
+    $("body").bind("contextmenu", returnFalse);
+    
+    
+   /* 
+    
+    // how many milliseconds is a long press?
+    var longpress = 500;
+    // holds the start time
+    var start;
+
+    $( "body" ).on( 'mousedown', function( e ) {
+        start = new Date().getTime();
+    } );
+
+    $( "body" ).on( 'mouseleave', function( e ) {
+        start = 0;
+    } );
+
+    $( "body" ).on( 'mouseup', function( e ) {
+        
+        
+        switch (e.which) {
+          case 1:
+              // $("#ki").html('Left mouse button pressed');
+              
+              
+              if ( new Date().getTime() >= ( start + longpress )  ) {
+                 // $("#ki").html('long press!');
+                    if(scroll_play)
+                    {
+                        scroll_play = false;
+                    }else{
+                        scroll_play = true;
+                    }   
+              } else {
+                 // $("#ki").html('short press!'); 
+                    var actual_id = notas_id.indexOf(nota_actual);
+                    if(actual_id > 0)
+                    {
+                        console.log("Anterior: "+notas_id[actual_id-1]);
+                        $('html, body').animate({
+                            scrollTop: $("#"+notas_id[actual_id-1]).offset().top
+                        }, scroll_move_nota);
+                    }
+
+              }
+              
+              break;
+              
+          case 2:
+              // $("#ki").html('Middle mouse button pressed');
+              break;
+          case 3:
+              // $("#ki").html('Right mouse button pressed');
+                console.log("Nota Siguiente");
+                var actual_id = notas_id.indexOf(nota_actual);
+                console.log("Actual: "+ actual_id+ " Len: " + notas_id.length.toString());
+                if(actual_id < (notas_id.length -1)){
+                    console.log("Siguiente: "+notas_id[actual_id+1]);
+                    $('html, body').animate({
+                        scrollTop: $("#"+notas_id[actual_id+1]).offset().top
+                    }, scroll_move_nota);
+                }
+              break;
+          default:
+              // $("#ki").html('You have a strange mouse');
+      }
+        
+    } );*/
