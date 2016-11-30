@@ -1,0 +1,1002 @@
+[
+    {
+        "_id": "011F7F75-B618-47CA-B86A917D310954C6", 
+        "final": "04/04/2016 09:27:51 p.m.", 
+        "inicio": "04/04/2016 08:59:51 p.m.", 
+        "nombre": "Noticias 2100 LUN04ABR", 
+        "notasNotReady": 39, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "0900D6BB-F53F-4D41-BB6F0F4B1B4C018C", 
+        "final": "23/03/2016 07:28:00 p.m.", 
+        "inicio": "23/03/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 MIE23MAR", 
+        "notasNotReady": 35, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "0939F77E-4953-4E27-B5C76E51777C2C6C", 
+        "final": "26/03/2016 09:28:00 p.m.", 
+        "inicio": "26/03/2016 09:00:00 p.m.", 
+        "nombre": "Noticias 2100 SAB26MAR", 
+        "notasNotReady": 42, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "0B0E2CED-AD21-4DA2-97598CB9F801C8F0", 
+        "final": "23/03/2016 07:13:00 p.m.", 
+        "inicio": "23/03/2016 07:00:00 p.m.", 
+        "nombre": "ALVARO CUEVA 23 MARZO", 
+        "notasNotReady": 33, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "0C87FF3A-990A-461B-A8006B460497BD8C", 
+        "final": "04/04/2016 07:13:00 p.m.", 
+        "inicio": "04/04/2016 07:00:00 p.m.", 
+        "nombre": "RADAR BARBARA LUNES 4 ABRIL 2016", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "0CF761EC-5948-40F2-B69A80E9DA22E0CC", 
+        "final": "28/03/2016 09:27:59 p.m.", 
+        "inicio": "28/03/2016 08:59:59 p.m.", 
+        "nombre": "Noticias 2100 LUN28MAR", 
+        "notasNotReady": 39, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "12429D0D-B384-45EA-9EB48B90D8073EBD", 
+        "final": "28/03/2016 07:27:49 p.m.", 
+        "inicio": "28/03/2016 06:59:49 p.m.", 
+        "nombre": "Noticias 1900 LUN28MAR", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "1333D1E6-8CAF-4440-BDDCD4185C2BB4BA", 
+        "final": "03/04/2016 10:27:30 p.m.", 
+        "inicio": "03/04/2016 10:00:00 p.m.", 
+        "nombre": "Noticias 2200 DOM03ABR", 
+        "notasNotReady": 36, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "133F4D61-9142-4AA7-9F51ED5260656390", 
+        "final": "05/04/2016 07:13:00 p.m.", 
+        "inicio": "05/04/2016 07:00:00 p.m.", 
+        "nombre": "RADAR 05042016", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "13C4D0B8-2183-4785-AFA819FE274B1A4B", 
+        "final": "22/03/2016 10:28:05 p.m.", 
+        "inicio": "22/03/2016 10:00:05 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO MAR22MAR", 
+        "notasNotReady": 39, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "1873C8B2-2FB0-4DD0-A7CAD9A001EA85CD", 
+        "final": "28/03/2016 06:13:00 p.m.", 
+        "inicio": "28/03/2016 06:00:00 p.m.", 
+        "nombre": "RADAR BARBARA 28 MARZO 2016", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "1A1794E2-3B60-40E9-B9DD278BA6A4673D", 
+        "final": "21/03/2016 09:30:06 a.m.", 
+        "inicio": "21/03/2016 08:30:06 a.m.", 
+        "nombre": "alvaro 21 03 16", 
+        "notasNotReady": 20, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "221EB69F-A031-4EBD-96927037248D82A9", 
+        "final": "23/03/2016 07:13:00 p.m.", 
+        "inicio": "23/03/2016 07:00:00 p.m.", 
+        "nombre": "RADAR 23032016", 
+        "notasNotReady": 11, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "232F4BA3-3D94-4B63-BE0D7404296E298A", 
+        "final": "04/04/2016 10:29:14 p.m.", 
+        "inicio": "04/04/2016 10:01:14 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO LUN04ABR", 
+        "notasNotReady": 44, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "2E7CFB66-413F-4F47-A0098800D0323618", 
+        "final": "30/03/2016 10:28:53 p.m.", 
+        "inicio": "30/03/2016 10:00:53 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO MIE30MAR", 
+        "notasNotReady": 52, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "301D21F9-BA9A-4A2F-B181386B0D7AB997", 
+        "final": "31/03/2016 07:13:00 p.m.", 
+        "inicio": "31/03/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY31MAR", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "32393317-0991-4D58-B601158C956C8D96", 
+        "final": "29/03/2016 07:27:49 p.m.", 
+        "inicio": "29/03/2016 06:59:49 p.m.", 
+        "nombre": "Noticias 1900 MAR29MAR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "332517F0-46E8-45BF-BC34F35FC708E726", 
+        "final": "31/03/2016 08:28:49 p.m.", 
+        "inicio": "31/03/2016 08:00:49 p.m.", 
+        "nombre": "Noticias 2000 JUE31MAR", 
+        "notasNotReady": 34, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "3495004C-A3CA-4202-8726665031724AC8", 
+        "final": "28/03/2016 08:28:33 p.m.", 
+        "inicio": "28/03/2016 08:00:33 p.m.", 
+        "nombre": "Noticias 2000 LUN28MAR", 
+        "notasNotReady": 30, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "365D67EB-DE87-4835-84411C89BFC20C37", 
+        "final": "23/03/2016 08:27:43 p.m.", 
+        "inicio": "23/03/2016 07:59:43 p.m.", 
+        "nombre": "Noticias 2000 MIE23MAR", 
+        "notasNotReady": 27, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "3ACCC7C6-768C-4786-BD51AC3A4CD511B2", 
+        "final": "31/03/2016 09:00:00 p.m.", 
+        "inicio": "30/03/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA MIERCOLES 30 DE MARZO 2016", 
+        "notasNotReady": 64, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "3F67EF60-C1B0-443E-926B017EEE836611", 
+        "final": "23/03/2016 09:28:35 p.m.", 
+        "inicio": "23/03/2016 09:00:35 p.m.", 
+        "nombre": "Noticias 2100 MIE23MAR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "4034F859-2D26-461C-BF61BB4FAF4B5765", 
+        "final": "02/04/2016 09:28:00 p.m.", 
+        "inicio": "02/04/2016 09:00:00 p.m.", 
+        "nombre": "Noticias 2100  SAB02ABRIL", 
+        "notasNotReady": 35, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "43E50A1E-9A84-4671-A30A9D3F50CE6D37", 
+        "final": "28/03/2016 07:13:00 p.m.", 
+        "inicio": "28/03/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY28MAR", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "441594C5-C882-47E7-BDD6F65CD14E8B84", 
+        "final": "04/04/2016 09:53:11 p.m.", 
+        "inicio": "04/04/2016 09:45:11 p.m.", 
+        "nombre": "AVANCE LAS DIEZ LUN04ABR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "47A1829B-1948-4742-8B898544DF9779F0", 
+        "final": "31/03/2016 07:27:47 p.m.", 
+        "inicio": "31/03/2016 06:59:47 p.m.", 
+        "nombre": "Noticias 1900 JUE31MAR", 
+        "notasNotReady": 36, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "47E51CB8-09A6-464C-90B785EEEF97F91E", 
+        "final": "31/03/2016 10:28:49 p.m.", 
+        "inicio": "31/03/2016 10:00:49 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO JUE31MAR", 
+        "notasNotReady": 48, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "52A981CB-B66D-4050-B7366FBEB345C149", 
+        "final": "24/03/2016 09:27:36 p.m.", 
+        "inicio": "24/03/2016 08:59:36 p.m.", 
+        "nombre": "Noticias 2100 JUE24MAR", 
+        "notasNotReady": 42, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "54ACB62C-78F6-45EE-AA2AA343706A1F99", 
+        "final": "23/03/2016 10:28:30 p.m.", 
+        "inicio": "23/03/2016 10:00:16 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO MIE23MAR", 
+        "notasNotReady": 45, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "58811689-437C-46C3-8062E5A31F66E038", 
+        "final": "29/03/2016 10:27:14 p.m.", 
+        "inicio": "29/03/2016 09:59:14 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO MAR29MAR", 
+        "notasNotReady": 55, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "5CB3CEB2-7B27-4C65-9999432228791686", 
+        "final": "02/04/2016 07:28:00 p.m.", 
+        "inicio": "02/04/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 SAB02ABRIL", 
+        "notasNotReady": 36, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "5FB51E16-9B31-48D5-AD687D1928C0E495", 
+        "final": "01/04/2016 09:50:48 p.m.", 
+        "inicio": "01/04/2016 09:42:48 p.m.", 
+        "nombre": "AVANCE LAS DIEZ VIE01ABR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "60E7ECC4-834B-4499-936807A180E1D85D", 
+        "final": "04/04/2016 07:27:47 p.m.", 
+        "inicio": "04/04/2016 06:59:47 p.m.", 
+        "nombre": "Noticias 1900 LUN04ABR", 
+        "notasNotReady": 39, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "62C79507-E589-434C-96B740FCB624FF43", 
+        "final": "30/03/2016 09:27:45 p.m.", 
+        "inicio": "30/03/2016 08:59:45 p.m.", 
+        "nombre": "Noticias 2100 MIE30MAR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "64F84088-F0D7-48ED-B1AD0BE5519DB4D6", 
+        "final": "28/03/2016 07:57:30 p.m.", 
+        "inicio": "28/03/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS LUN28MAR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "65258D0F-F2E6-4F03-A697AAB17690E83C", 
+        "final": "22/03/2016 09:51:50 p.m.", 
+        "inicio": "22/03/2016 09:43:50 p.m.", 
+        "nombre": "AVANCE LAS DIEZ MAR22MAR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "66D95167-F5F0-4AA4-BF0A2C4AE1A63F63", 
+        "final": "30/03/2016 09:38:00 p.m.", 
+        "inicio": "30/03/2016 09:30:00 p.m.", 
+        "nombre": "AVANCE LAS DIEZ MIE30MAR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "681B9BAC-847F-483F-BCBF572794F6A54C", 
+        "final": "03/04/2016 08:27:43 p.m.", 
+        "inicio": "03/04/2016 07:59:43 p.m.", 
+        "nombre": "Noticias 2000 DOM03ABR", 
+        "notasNotReady": 33, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "6AEE1E00-A346-4519-864F376502965B62", 
+        "final": "31/03/2016 09:49:43 p.m.", 
+        "inicio": "31/03/2016 09:41:43 p.m.", 
+        "nombre": "AVANCE LAS DIEZ 31MAR", 
+        "notasNotReady": 11, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "6D208C84-43EF-440B-8E02A820F49B7CB8", 
+        "final": "22/03/2016 07:28:30 p.m.", 
+        "inicio": "22/03/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 MAR22MAR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "6ED056E0-8161-48BE-AC7AD63AD2C31006", 
+        "final": "04/04/2016 07:13:00 p.m.", 
+        "inicio": "04/04/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY04ABR", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "6FD17EE3-4576-45DA-962E776758BD5426", 
+        "final": "30/03/2016 11:28:20 p.m.", 
+        "inicio": "30/03/2016 11:00:20 p.m.", 
+        "nombre": "MILENIO AL CIERRE MIE30MAR", 
+        "notasNotReady": 34, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "715185CE-A653-4E23-9F863FC1AD728F4B", 
+        "final": "02/04/2016 10:27:52 p.m.", 
+        "inicio": "02/04/2016 10:00:02 p.m.", 
+        "nombre": "Noticias 2200 SAB02ABRIL ", 
+        "notasNotReady": 25, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "72BE587B-E925-40AA-B28694ED0D9DC629", 
+        "final": "01/04/2016 09:28:18 p.m.", 
+        "inicio": "01/04/2016 09:00:18 p.m.", 
+        "nombre": "Noticias 2100 VIE01ABR", 
+        "notasNotReady": 29, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "72E817B9-40FF-46C5-9B36F9B14DE6CBBA", 
+        "final": "30/03/2016 07:57:30 p.m.", 
+        "inicio": "30/03/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS MIE30MAR", 
+        "notasNotReady": 36, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "73B15621-7AF6-480C-BF4A122FDB67F4C8", 
+        "final": "29/03/2016 11:27:46 p.m.", 
+        "inicio": "29/03/2016 10:59:46 p.m.", 
+        "nombre": "MILENIO AL CIERRE MAR29MAR", 
+        "notasNotReady": 42, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "74D11CF4-FDD4-40DC-9CF4912E3E49D56A", 
+        "final": "01/04/2016 07:13:00 p.m.", 
+        "inicio": "01/04/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY VIE1DEABRIL", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "7656ADB6-2998-48A7-ACCD57448CE2A027", 
+        "final": "04/04/2016 07:57:30 p.m.", 
+        "inicio": "04/04/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS LUN04ABR", 
+        "notasNotReady": 39, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "770A3EA4-3EC2-40E9-A1375D73A4214D51", 
+        "final": "22/03/2016 07:13:00 p.m.", 
+        "inicio": "22/03/2016 07:00:00 p.m.", 
+        "nombre": "RADAR ANDERSON 22 MARZO", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "7AED14A3-6A6B-43F2-A65D411B61461867", 
+        "final": "05/04/2016 09:00:00 p.m.", 
+        "inicio": "04/04/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA LUNES 04 DE ABRIL 2016", 
+        "notasNotReady": 52, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "7B0EC96A-B210-4B06-9E325E95055E2553", 
+        "final": "22/03/2016 07:58:55 p.m.", 
+        "inicio": "22/03/2016 07:31:15 p.m.", 
+        "nombre": "NOTICIAS Y MAS MAR22MAR", 
+        "notasNotReady": 24, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "7C9ED16D-620A-4B12-80AF72F1D24FACDE", 
+        "final": "20/03/2016 08:27:30 p.m.", 
+        "inicio": "20/03/2016 08:00:00 p.m.", 
+        "nombre": "Noticias 2100 DOM20MAR", 
+        "notasNotReady": 33, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "7EF46ABF-43DA-4EDF-B7B2F16707625035", 
+        "final": "21/03/2016 10:27:39 p.m.", 
+        "inicio": "21/03/2016 09:59:39 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO LUN21MAR", 
+        "notasNotReady": 41, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "7FCBB905-EE8D-42FD-87ACBF2D06D1A78C", 
+        "final": "21/03/2016 07:28:41 p.m.", 
+        "inicio": "21/03/2016 07:00:41 p.m.", 
+        "nombre": "Noticias 1900 LUN21MAR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8088FD5A-B881-4C12-80AB5935A0ABA19F", 
+        "final": "06/04/2016 07:57:10 p.m.", 
+        "inicio": "06/04/2016 07:29:40 p.m.", 
+        "nombre": "NOTICIAS Y MAS MIE06ABR", 
+        "notasNotReady": 40, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "813B6A08-92BE-47A3-BD8611CCCF0DED8F", 
+        "final": "27/03/2016 07:28:00 p.m.", 
+        "inicio": "27/03/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 DOM27MAR", 
+        "notasNotReady": 29, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8383A404-A09D-41E7-A71388CB23407E3C", 
+        "final": "05/04/2016 07:57:30 p.m.", 
+        "inicio": "05/04/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS MAR05ABR", 
+        "notasNotReady": 43, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "84359BD0-1766-42E4-BCBEBF830B5FC634", 
+        "final": "30/03/2016 07:13:00 p.m.", 
+        "inicio": "30/03/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY30MAR", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "861D30CF-D4BF-4271-878B3853259D521A", 
+        "final": "30/03/2016 07:25:04 p.m.", 
+        "inicio": "30/03/2016 06:57:04 p.m.", 
+        "nombre": "Noticias 1900 MIE30MAR", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "86AC7456-A8F6-4DB4-9BBFACA09A810EBB", 
+        "final": "01/04/2016 08:27:51 p.m.", 
+        "inicio": "01/04/2016 07:59:51 p.m.", 
+        "nombre": "Noticias 2000 VIE01ABR", 
+        "notasNotReady": 36, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8820F79E-262A-4A59-BE13EAB5C8DDAAA6", 
+        "final": "28/03/2016 11:57:06 a.m.", 
+        "inicio": "28/03/2016 10:15:06 a.m.", 
+        "nombre": "ALVARO CUEVA", 
+        "notasNotReady": 20, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8BB63F12-6A15-4F18-9BEBAB7D0C978162", 
+        "final": "29/03/2016 08:28:23 p.m.", 
+        "inicio": "29/03/2016 08:00:23 p.m.", 
+        "nombre": "Noticias 2000 MAR29MAR", 
+        "notasNotReady": 32, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8D0EFF89-BACA-4266-86B5414B97047E57", 
+        "final": "31/03/2016 07:13:00 p.m.", 
+        "inicio": "31/03/2016 07:00:00 p.m.", 
+        "nombre": "RADAR 31032016", 
+        "notasNotReady": 7, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8D9CF07B-EAEC-49B7-BD312D35418BDAC9", 
+        "final": "05/04/2016 08:27:52 p.m.", 
+        "inicio": "05/04/2016 07:59:52 p.m.", 
+        "nombre": "Noticias 2000 MAR05ABR", 
+        "notasNotReady": 35, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "8DB637C8-C7E0-49CB-99FD364882377F35", 
+        "final": "06/04/2016 09:00:00 p.m.", 
+        "inicio": "06/04/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA MIERCOLES 06 DE ABRIL DEL 2016", 
+        "notasNotReady": 68, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "94224265-4524-4C3E-BF9FA458DAF7CE9F", 
+        "final": "06/04/2016 07:28:12 p.m.", 
+        "inicio": "06/04/2016 07:00:12 p.m.", 
+        "nombre": "Noticias 1900 MIE06ABR", 
+        "notasNotReady": 23, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "96E07DEA-ED4C-4881-94E79D9CBCD96C9D", 
+        "final": "03/04/2016 07:27:30 p.m.", 
+        "inicio": "03/04/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 DOM03ABR", 
+        "notasNotReady": 38, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "985840E7-069F-4A78-8951DCA4713E2F9D", 
+        "final": "01/04/2016 07:58:09 p.m.", 
+        "inicio": "01/04/2016 07:30:39 p.m.", 
+        "nombre": "Noticias 1930 VIE01ABR", 
+        "notasNotReady": 32, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9963F2C2-2914-4F03-BADE3C6BE83A59BB", 
+        "final": "31/03/2016 07:57:30 p.m.", 
+        "inicio": "31/03/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS JUE31MAR", 
+        "notasNotReady": 34, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9BE0E50C-DE05-443A-B13D1B99BE2D0506", 
+        "final": "31/03/2016 09:28:06 p.m.", 
+        "inicio": "31/03/2016 09:00:06 p.m.", 
+        "nombre": "Noticias 2100 JUE31MAR", 
+        "notasNotReady": 29, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9DD32B15-F458-40BD-85C557E2B456B8ED", 
+        "final": "06/04/2016 07:13:00 p.m.", 
+        "inicio": "06/04/2016 07:00:00 p.m.", 
+        "nombre": "revolver hey06abr", 
+        "notasNotReady": 4, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9E818C00-D77A-47A7-AACA31D0049639E9", 
+        "final": "21/03/2016 09:00:00 p.m.", 
+        "inicio": "21/03/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA LUNES 21 MARZO 2016", 
+        "notasNotReady": 61, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9EE13906-9822-4911-8564040A7EB4CEB4", 
+        "final": "24/03/2016 09:00:00 p.m.", 
+        "inicio": "24/03/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA JUEVES 24 DE MARZO 2016", 
+        "notasNotReady": 44, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9FB35E40-A329-4667-8D74559481B1EF29", 
+        "final": "05/04/2016 09:27:45 p.m.", 
+        "inicio": "05/04/2016 08:59:45 p.m.", 
+        "nombre": "Noticias 2100 MAR05ABR", 
+        "notasNotReady": 41, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "9FE4226F-AE53-4E04-9B389681C20E754C", 
+        "final": "02/04/2016 08:28:00 p.m.", 
+        "inicio": "02/04/2016 08:00:00 p.m.", 
+        "nombre": "Noticias 2000 SAB02ABRIL", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A14129C5-E6B0-480C-920008DFD696974C", 
+        "final": "01/04/2016 07:28:03 p.m.", 
+        "inicio": "01/04/2016 07:00:03 p.m.", 
+        "nombre": "Noticias 1900 VIE01ABR", 
+        "notasNotReady": 28, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A2EAD86C-577E-4D7B-9C97A6A96D6B058D", 
+        "final": "28/03/2016 10:27:46 p.m.", 
+        "inicio": "28/03/2016 09:59:46 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO LUN28MAR", 
+        "notasNotReady": 49, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A33CCF78-463E-4C04-93AC4E178CA321FA", 
+        "final": "05/04/2016 11:56:14 p.m.", 
+        "inicio": "05/04/2016 11:28:14 p.m.", 
+        "nombre": "MILENIO AL CIERRE MAR05ABR", 
+        "notasNotReady": 50, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A3541C78-DF07-404D-BE9DEEA60E8887B9", 
+        "final": "21/03/2016 08:27:35 p.m.", 
+        "inicio": "21/03/2016 07:59:35 p.m.", 
+        "nombre": "Noticias 2000 LUN21MAR", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A520AC14-5CEF-4302-A9161C93A80A3728", 
+        "final": "24/03/2016 07:28:10 p.m.", 
+        "inicio": "24/03/2016 07:00:10 p.m.", 
+        "nombre": "Noticias 1900 y 2000 JUE24MAR", 
+        "notasNotReady": 41, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A5372BB5-7BD3-40C1-A330EA777C9E1F9A", 
+        "final": "05/04/2016 07:27:46 p.m.", 
+        "inicio": "05/04/2016 06:59:46 p.m.", 
+        "nombre": "Noticias 1900 MAR05ABR", 
+        "notasNotReady": 37, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A563E39D-4059-43F1-A2802EA077174DA9", 
+        "final": "05/04/2016 09:39:43 p.m.", 
+        "inicio": "05/04/2016 09:38:43 p.m.", 
+        "nombre": "AVANCE LAS DIEZ MAR05ABR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "A9169527-C596-4A94-B90E2DBA899D6D43", 
+        "final": "29/03/2016 07:13:00 p.m.", 
+        "inicio": "29/03/2016 07:00:00 p.m.", 
+        "nombre": "RADAR 29032016", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "AB97EE56-2804-49C1-93AFE8B59F6A2D21", 
+        "final": "22/03/2016 08:28:42 p.m.", 
+        "inicio": "22/03/2016 08:00:42 p.m.", 
+        "nombre": "Noticias 2000 MAR22MAR", 
+        "notasNotReady": 27, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "AC41F2F2-338E-4A95-905DC5D5DE4C1EE4", 
+        "final": "05/04/2016 07:13:00 p.m.", 
+        "inicio": "05/04/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY05ABR", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B0A75363-198F-4E3C-8FFCB3F104F8ADAA", 
+        "final": "24/03/2016 10:28:00 p.m.", 
+        "inicio": "24/03/2016 10:00:00 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO JUE24MAR", 
+        "notasNotReady": 50, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B36EDFFD-DCEA-4F1C-927825669C6F9E7D", 
+        "final": "06/04/2016 07:13:00 p.m.", 
+        "inicio": "06/04/2016 07:00:00 p.m.", 
+        "nombre": "HEY06ABR", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B412B15B-5B3B-41CA-99914B493A537361", 
+        "final": "01/04/2016 09:00:00 p.m.", 
+        "inicio": "31/03/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA JUEVES 31 DE MARZO 2016", 
+        "notasNotReady": 60, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B69C8F45-9D8D-439C-923B455B7801B3A5", 
+        "final": "30/03/2016 09:00:00 p.m.", 
+        "inicio": "29/03/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA MARTES 29 DE MARZO 2016", 
+        "notasNotReady": 59, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B6A6C95F-62B3-443E-9C6B82B7B3A6B0DE", 
+        "final": "05/04/2016 07:13:00 p.m.", 
+        "inicio": "05/04/2016 07:00:00 p.m.", 
+        "nombre": "CAPSULA ALBERTO AGUILAR", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B6E1820B-312F-48C4-8D6F8788D8754310", 
+        "final": "21/03/2016 07:57:30 p.m.", 
+        "inicio": "21/03/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS 1930 LUN21MAR", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "B71C4787-3E02-454C-8D6EE30BACA91DA4", 
+        "final": "27/03/2016 09:28:00 p.m.", 
+        "inicio": "27/03/2016 09:00:00 p.m.", 
+        "nombre": "Noticias 2100 DOM27MAR", 
+        "notasNotReady": 38, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "BFA2AC50-D9A7-4289-87755E987B37FDB0", 
+        "final": "04/04/2016 08:27:50 p.m.", 
+        "inicio": "04/04/2016 07:59:50 p.m.", 
+        "nombre": "Noticias 2000 LUN04ABR", 
+        "notasNotReady": 40, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "C3358483-461E-4F11-9E13BC7AB7CD3D22", 
+        "final": "21/03/2016 09:51:29 p.m.", 
+        "inicio": "21/03/2016 09:43:29 p.m.", 
+        "nombre": "AVANCE LAS DIEZ LUN21MAR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "C353C401-C044-4A2F-94EC94A7BA5A1451", 
+        "final": "23/03/2016 07:58:37 p.m.", 
+        "inicio": "23/03/2016 07:30:37 p.m.", 
+        "nombre": "Noticias 1930 MIE23MAR ", 
+        "notasNotReady": 31, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "C7C1261C-3ACD-4484-91F59BA087F02248", 
+        "final": "06/04/2016 09:00:00 p.m.", 
+        "inicio": "05/04/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA MARTES 05 DE 2016", 
+        "notasNotReady": 59, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "C7F6AB5D-819D-46EA-AEE629D360D3107F", 
+        "final": "28/03/2016 09:51:05 p.m.", 
+        "inicio": "28/03/2016 09:43:05 p.m.", 
+        "nombre": "AVANCE LAS DIEZ LUN28MAR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "C9CAA490-2EFA-45A3-8767D03606EFEAEF", 
+        "final": "29/03/2016 09:28:05 p.m.", 
+        "inicio": "29/03/2016 08:59:55 p.m.", 
+        "nombre": "Noticias 2100 MAR29MAR", 
+        "notasNotReady": 30, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "CB346D12-8155-4F05-909FC151CF05C421", 
+        "final": "29/03/2016 07:13:00 p.m.", 
+        "inicio": "29/03/2016 07:00:00 p.m.", 
+        "nombre": "REVOLVER HEY29MAR", 
+        "notasNotReady": 5, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "CBC97BB2-7D5B-45D5-AA11855E7C19AB13", 
+        "final": "31/03/2016 11:28:02 p.m.", 
+        "inicio": "31/03/2016 11:00:02 p.m.", 
+        "nombre": "MILENIO AL CIERRE JUE31MAR", 
+        "notasNotReady": 38, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "CC531625-04E5-448A-9201ECD8DE30410B", 
+        "final": "20/03/2016 07:13:00 p.m.", 
+        "inicio": "20/03/2016 07:00:00 p.m.", 
+        "nombre": "PRUEBAS DOMINGO 20 DE MARZO", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "CCCFCFA8-53BC-4FA4-B31AA6623791B616", 
+        "final": "26/03/2016 07:28:00 p.m.", 
+        "inicio": "26/03/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 Y 2000 SAB26MAR", 
+        "notasNotReady": 21, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "CDD25919-E7DE-4D67-AC9C7D8D88480C95", 
+        "final": "28/03/2016 11:28:22 p.m.", 
+        "inicio": "28/03/2016 11:00:22 p.m.", 
+        "nombre": "MILENIO AL CIERRE LUN28MAR", 
+        "notasNotReady": 40, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "D1889864-F95E-4EEE-AA30BF94E5204106", 
+        "final": "06/04/2016 08:28:08 p.m.", 
+        "inicio": "06/04/2016 08:00:08 p.m.", 
+        "nombre": "Noticias 2000 MIE06ABR", 
+        "notasNotReady": 30, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "D394CA77-D534-4F9B-9C3D6952D60618DE", 
+        "final": "22/03/2016 09:28:02 p.m.", 
+        "inicio": "22/03/2016 09:00:02 p.m.", 
+        "nombre": "Noticias 2100 MAR22MAR", 
+        "notasNotReady": 30, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "D4FD7F7F-8286-431A-BB6CA16B5F10C907", 
+        "final": "04/04/2016 11:28:34 p.m.", 
+        "inicio": "04/04/2016 11:00:34 p.m.", 
+        "nombre": "MILENIO AL CIERRE LUN04ABR", 
+        "notasNotReady": 40, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DB2DC4D7-CB5F-49D3-AE37B85CBCE9ACDE", 
+        "final": "02/04/2016 09:00:00 p.m.", 
+        "inicio": "01/04/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA VIERNES 01 DE ABRIL 2016", 
+        "notasNotReady": 50, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DBF58DAD-E6B6-47D5-BF1C4BC4736A92A6", 
+        "final": "02/04/2016 08:59:30 p.m.", 
+        "inicio": "02/04/2016 08:29:30 p.m.", 
+        "nombre": "La Aficion MINE JUANPA", 
+        "notasNotReady": 33, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DC7405F9-54A4-469F-B458A1984CAFD450", 
+        "final": "25/03/2016 10:28:00 p.m.", 
+        "inicio": "25/03/2016 10:00:00 p.m.", 
+        "nombre": "LA DIEZ DE MILENIO VIE25MAR", 
+        "notasNotReady": 49, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DCD9262F-066F-4ECF-83B16EEBFEA56997", 
+        "final": "01/04/2016 11:27:50 p.m.", 
+        "inicio": "01/04/2016 10:59:50 p.m.", 
+        "nombre": "MILENIO AL CIERRE VIE01ABR", 
+        "notasNotReady": 33, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DE05B251-50AE-426F-8186CB54362C5D87", 
+        "final": "20/03/2016 10:28:00 p.m.", 
+        "inicio": "20/03/2016 10:00:00 p.m.", 
+        "nombre": "Noticias 2200 DOM20MAR", 
+        "notasNotReady": 29, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DE549403-9B3E-41BD-866F8AD5DD9A3B53", 
+        "final": "21/03/2016 09:27:38 p.m.", 
+        "inicio": "21/03/2016 08:59:58 p.m.", 
+        "nombre": "Noticias 2100 LUN21MAR", 
+        "notasNotReady": 34, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "DEE6741A-A7C2-4D35-AE02283BD5ECEF94", 
+        "final": "30/03/2016 08:28:17 p.m.", 
+        "inicio": "30/03/2016 08:00:17 p.m.", 
+        "nombre": "Noticias 2000 MIE30MAR", 
+        "notasNotReady": 39, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "E413CEB7-9B46-4CA9-BF5C67A2E3411126", 
+        "final": "29/03/2016 07:57:30 p.m.", 
+        "inicio": "29/03/2016 07:30:00 p.m.", 
+        "nombre": "NOTICIAS Y MAS 1930 MAR29MAR", 
+        "notasNotReady": 34, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "E56B1CDE-72C7-43F5-9480C9C1C206C4B4", 
+        "final": "28/03/2016 09:00:00 p.m.", 
+        "inicio": "28/03/2016 12:00:00 a.m.", 
+        "nombre": "MENU DEL DIA LUNES 28 DE MARZO DEL 2016", 
+        "notasNotReady": 56, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "E65D226E-B0FD-4EC7-9B9924E3A3D40B49", 
+        "final": "05/04/2016 10:27:49 p.m.", 
+        "inicio": "05/04/2016 09:59:49 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO MAR05ABR", 
+        "notasNotReady": 54, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "E9B9368D-3ADE-4BF2-BD9F691C6A4012AA", 
+        "final": "30/03/2016 07:13:00 p.m.", 
+        "inicio": "30/03/2016 07:00:00 p.m.", 
+        "nombre": "HEY 30MAR", 
+        "notasNotReady": 34, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "EC1239A9-5083-466C-AE9272115E5C6211", 
+        "final": "25/03/2016 07:28:00 p.m.", 
+        "inicio": "25/03/2016 07:00:00 p.m.", 
+        "nombre": "Noticias 1900 VIE25MAR", 
+        "notasNotReady": 40, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "F1055156-0224-4EA2-98347ECB6BFB9245", 
+        "final": "01/04/2016 10:27:08 p.m.", 
+        "inicio": "01/04/2016 09:59:08 p.m.", 
+        "nombre": "LAS DIEZ DE MILENIO VIE01ABR", 
+        "notasNotReady": 55, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "F5B95D36-DBC0-4DA8-AC03F45981BA51DB", 
+        "final": "23/03/2016 07:13:00 p.m.", 
+        "inicio": "23/03/2016 07:00:00 p.m.", 
+        "nombre": "HEY23MAR", 
+        "notasNotReady": 79, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "F7193316-58CC-4AF0-90269FF048482399", 
+        "final": "02/04/2016 11:28:00 p.m.", 
+        "inicio": "02/04/2016 11:00:00 p.m.", 
+        "nombre": "AJUSTE DE NOTAS 2 de abril", 
+        "notasNotReady": 30, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "F7529E59-AB06-4ED7-A35FF01B252F991C", 
+        "final": "06/04/2016 07:13:00 p.m.", 
+        "inicio": "06/04/2016 07:00:00 p.m.", 
+        "nombre": "RADAR 06042016", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "F82228B7-03B2-47C8-95F2105F710ECB1B", 
+        "final": "25/03/2016 09:28:27 p.m.", 
+        "inicio": "25/03/2016 09:00:27 p.m.", 
+        "nombre": "Noticias 2100 VIE25MAR", 
+        "notasNotReady": 29, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "F86005CA-E751-4C2D-B308291C8F53CD42", 
+        "final": "29/03/2016 09:52:23 p.m.", 
+        "inicio": "29/03/2016 09:44:23 p.m.", 
+        "nombre": "AVANCE LAS DIEZ MAR29MAR", 
+        "notasNotReady": 10, 
+        "notasReady": 0
+    }, 
+    {
+        "_id": "FDE86F3C-45E4-41E3-B8ADFC38F212D8B4", 
+        "final": "30/03/2016 07:13:00 p.m.", 
+        "inicio": "30/03/2016 07:00:00 p.m.", 
+        "nombre": "RADAR 30032016", 
+        "notasNotReady": 6, 
+        "notasReady": 0
+    }
+]

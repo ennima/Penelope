@@ -1,0 +1,23 @@
+#content {
+    overflow:auto;
+    height: 200px; /*could be whatever*/
+}
+
+#scrollUp{
+  z-index:2;
+  position:absolute;
+  background-color:rgba(1,0,0,0.1);
+  height:20%;
+  width:100%;
+  
+}
+
+#scrollDown{
+  z-index:3;
+  position:absolute;
+  top:25%;
+  background-color:rgba(1,0,0,0.1);
+  height:20%;
+  width:100%;
+  
+}

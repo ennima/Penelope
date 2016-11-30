@@ -1,0 +1,14 @@
+body {
+    font-family:arial;
+    font-size: 300%;
+    color:#fff;
+    background:#000;
+    text-transform: uppercase;
+    font-weight:bold;
+   
+}
+h1{
+  font-weight:bold;
+  background:#fff;
+  color:#000;
+}
